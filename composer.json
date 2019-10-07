@@ -1,0 +1,13 @@
+{
+    "name": "benjaminferge/functional",
+    "description": "Tools for functional programming.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benjámin J. Ferge",
+            "email": "benjamin.ferge17@gmail.com"
+        }
+    ],
+    "require": {}
+}
