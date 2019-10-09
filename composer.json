@@ -9,10 +9,10 @@
             "email": "benjamin.ferge17@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php-ds/php-ds": "^1.2"
+    },
     "autoload": {
-        "psr-4": {
-            "Ferge\\Functional\\": "src/"
-        }
+        "files": ["src/containers.php", "src/strings.php"]
     }
 }
